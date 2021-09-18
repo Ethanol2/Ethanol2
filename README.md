@@ -4,7 +4,7 @@ Hello, thank you for checking out my portfolio. I'm a graduate of the University
 # Portfolio Videos
 In general I prefer to code using C#, using the Unity Engine. I have also experience in C++ and some limited practive using Java, JS and Python. I'm always looking to learn more. 
 
-For a trailer of some of the projects in my portfolio click the video on the left. For a more in-depth look at some of my recent Unity2D projects, click right.
+For a trailer of some of the projects in my portfolio click the first video. For a more in-depth look at some of my recent Unity2D projects, click the second video.
 
 [![Portfolio Trailer](https://img.youtube.com/vi/ke3NBA-RKlI/hqdefault.jpg)](https://youtu.be/ke3NBA-RKlI) [![Portfolio 2D Look](https://img.youtube.com/vi/Yt1FDruCfUw/hqdefault.jpg)](https://youtu.be/Yt1FDruCfUw)
 
