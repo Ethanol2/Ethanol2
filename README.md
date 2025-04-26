@@ -1,5 +1,5 @@
 # Ethan Colucci
-A dynamic Game/Unity Developer with 7 years of overall experience and 4 years of professional industry engagement, I bring to the table a strong proficiency in Unity, C#, and development methodologies. My career is marked by 2 years of specialized experience in Virtual Reality (VR), where I have honed my skills in immersive environment creation and interactive gameplay design.
+Driven and adaptable Game Developer with 7 years of experience building interactive experiences,including 4 years in professional environments. Currently specializing in Unity, C#, and VirtualReality (VR) development for training and simulation. I create immersive, high-performanceapplications by combining strong technical foundations with creative design thinking. Experiencedacross VR, mobile, and traditional platforms, I thrive on solving complex problems, rapidlylearning new technologies, and collaborating across disciplines to deliver polished results.
 
 # Portfolio Videos
 In general I prefer to code using C#, using the Unity Engine. I have also experience in C++ and some limited practive using Java, JS and Python. I'm always looking to learn more. 
